@@ -35,6 +35,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 class VetController {
 
+	private final String pwd = "my_best_pwd";
+
 	private final VetRepository vetRepository;
 
 	public VetController(VetRepository vetRepository) {

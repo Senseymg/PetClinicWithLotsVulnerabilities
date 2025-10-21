@@ -28,9 +28,10 @@ import org.springframework.context.annotation.ImportRuntimeHints;
 @SpringBootApplication
 @ImportRuntimeHints(PetClinicRuntimeHints.class)
 public class PetClinicApplication {
+	private static final String API_KEY = "sk-1234567890abcdef1234567890abcdef1234567890abcdef";
 
 	public static void main(String[] args) {
+		System.out.println(API_KEY);
 		SpringApplication.run(PetClinicApplication.class, args);
 	}
-
 }
