@@ -84,7 +84,7 @@
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:27",
     "type": "API key",
     "value": ""stripe_key_sk_live_abcdefghijklmnopqrstuvwxyz1234567890""
-  }
+  },
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:31",
     "type": "Password",
