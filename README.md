@@ -1,6 +1,21 @@
 <pre>
 [
   {
+    "position": "/src/main/java/org/springframework/samples/petclinic/App.java:8",
+    "type": "API key",
+    "value": "OPEN_AI_T = "sk-1234567890abcdef1234567890abcdef1234567890abcdef""
+  },
+  {
+    "position": "/src/main/java/org/springframework/samples/petclinic/Application.java:8",
+    "type": "API Key",
+    "value": "IAM_TOKEN = "t1.7euelSbPyceKx87JqpuRl1qZiY-Ryi3rnpWaksrKaZqUppnLncmDnpeajZvl8_dZNAFl-e8ENXMH_t3z9xljfmT57wQ1cwf-.-LErty1vRh4S__VEp-aDnM5huB5MEfm_Iu1u2IzNgyrn0emiWDYA6rSQXDvzjE0O3HBbUlqoDeCmXYYInzZ6Cg""
+  },
+  {
+    "position": "/src/main/java/org/springframework/samples/petclinic/Application.java:9",
+    "type": "Password",
+    "value": "PASSWORD = "Qw!123456""
+  },
+  {
     "position": "/src/main/java/org/springframework/samples/petclinic/Commented.java:9",
     "type": "Password",
     "value": "Password: 'prod_password_123'"
