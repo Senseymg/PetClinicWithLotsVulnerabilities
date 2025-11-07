@@ -24,7 +24,7 @@ public class TestConfig {
 
     private String[] keys = {
         "github_token_aBcDeFgHiJkLmNoPqRsTuVwXyZ1234567890",
-        "stripe_key_sk_live_abcdefghijklmnopqrstuvwxyz1234567890"
+        "stripe_key_sk_live_abcdefghijklmnopqrstuvwxyz1234567890" // stripe_key_sk_live_abcdefghijklmnopqrstuvwxyz1234567890
     };
 
     public void processData() {
