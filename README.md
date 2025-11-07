@@ -3,17 +3,17 @@
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/App.java:8",
     "type": "API key",
-    "value": "OPEN_AI_T = "sk-1234567890abcdef1234567890abcdef1234567890abcdef""
+    "value": "sk-1234567890abcdef1234567890abcdef1234567890abcdef"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/Application.java:8",
     "type": "API key",
-    "value": "IAM_TOKEN = "t1.7euelSbPyceKx87JqpuRl1qZiY-Ryi3rnpWaksrKaZqUppnLncmDnpeajZvl8_dZNAFl-e8ENXMH_t3z9xljfmT57wQ1cwf-.-LErty1vRh4S__VEp-aDnM5huB5MEfm_Iu1u2IzNgyrn0emiWDYA6rSQXDvzjE0O3HBbUlqoDeCmXYYInzZ6Cg""
+    "value": "t1.7euelSbPyceKx87JqpuRl1qZiY-Ryi3rnpWaksrKaZqUppnLncmDnpeajZvl8_dZNAFl-e8ENXMH_t3z9xljfmT57wQ1cwf-.-LErty1vRh4S__VEp-aDnM5huB5MEfm_Iu1u2IzNgyrn0emiWDYA6rSQXDvzjE0O3HBbUlqoDeCmXYYInzZ6Cg"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/Application.java:9",
     "type": "Password",
-    "value": "PASSWORD = "Qw!123456""
+    "value": "Qw!123456"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/Commented.java:9",
@@ -28,22 +28,22 @@
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/ComplexDataManager.java:28",
     "type": "Password",
-    "value": "chiaveSegreta = "Verona_1986_Super_Secret_Code""
+    "value": "Verona_1986_Super_Secret_Code"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/ComplexDataManager.java:30",
     "type": "API key",
-    "value": "gitHubTokenPart1 = "ghp_zxcvbnm""
+    "value": "ghp_zxcvbnm"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/ComplexDataManager.java:31",
     "type": "API key",
-    "value": "gitHubTokenPart2 = "lkjhgfdsa""
+    "value": "lkjhgfdsa"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/ComplexDataManager.java:39",
-    "type": "Password",
-    "value": "credenciales.put("token_de_acceso", "token_super_secreto_para_produccion")"
+    "type": "API key",
+    "value": "ghp_asnjlasnk_sanjsnjkwc"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/ComplexDataManager.java:46",
@@ -53,27 +53,27 @@
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java:31",
     "type": "API key",
-    "value": "API_KEY = "sk-1234567890abcdef1234567890abcdef1234567890abcdef""
+    "value": "sk-1234567890abcdef1234567890abcdef1234567890abcdef"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/owner/PetController.java:70",
     "type": "API key",
-    "value": "apiKeyToken = "sk-1234567890abcdef1234567890abcdef1234567890abcdef""
+    "value": "sk-1234567890abcdef1234567890abcdef1234567890abcdef"
   },
   {
     "position": "/src/main/java/org/springframework/samples/petclinic/vet/VetController.java:38",
     "type": "Password",
-    "value": "pwd = "my_best_pwd""
+    "value": "my_best_pwd"
   },
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:21",
     "type": "API key",
-    "value": "schlussel = "initial_2025""
+    "value": "initial_2025"
   },
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:23",
     "type": "API key",
-    "value": "access_token = "token_1234567890abcdef""
+    "value": "token_1234567890abcdef"
   },
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:26",
@@ -93,22 +93,22 @@
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:31",
     "type": "Password",
-    "value": "parola_di_accesso_tmp = "temp_pass_2025""
+    "value": "temp_pass_2025"
   },
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:32",
     "type": "Password",
-    "value": "contrasena_privada = "lmkfwemj""
+    "value": "lmkfwemj"
   },
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestMethods.java:3",
     "type": "Password",
-    "value": "setDatabasePassword("dbpass123!")"
+    "value": "dbpass123!"
   },
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestMethods.java:4",
     "type": "Password",
-    "value": "setAdminPassword("adminpass456!")"
+    "value": "adminpass456!"
   }
 ]
 </pre>
