@@ -68,7 +68,7 @@
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:21",
     "type": "API key",
-    "value": "initial_2025"
+    "value": "sk_live_aklmcjnsldsnjvdsnjsd"
   },
   {
     "position": "/src/test/java/org/springframework/samples/petclinic/TestConfig.java:23",
